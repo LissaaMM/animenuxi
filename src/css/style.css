@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    padding: 20px;
+    background-color: rgb(95, 167, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    background: radial-gradient(circle, rgb(#fff7de));
+    justify-content: space-between;
+    align-items: center;
+}
+h1{
+  color: black;
+}
+nav a.genero{
+    background-color: cornflowerblue;
+}
+.a:hover {
+    color: black;
+    background-color: aliceblue;
+
+}
+
+body{
+   background-color :aliceblue;
+}

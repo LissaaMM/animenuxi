@@ -6,5 +6,7 @@
   <li><p>Aventura</p></li>
   <li><p>Suspense</p></li>
 </ul>
-<h4>Porque acessar esse site?</h4>
+<h2>Qual objetivo do site?<h2>
+  <p>Separar animes para assim assistir animes que interessem o telespectador, de acordo com seus intereses.</p>
+<h2>Porque acessar esse site?</h2>
 <p>o maior motivo é está conectado e ligado nas novidades, com novos lançamentos entre outros.</p>

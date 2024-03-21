@@ -24,14 +24,14 @@ p{
 }
 
 button:hover {
-    color: #f098e8;
+    color: #ec9eec;
     background-color: #d67f96;
 
 }
 img{
     border-radius: 20px;
 }
-body.m {
+body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color :#ffe5fc;
 }

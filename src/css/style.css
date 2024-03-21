@@ -27,12 +27,14 @@ nav a.genero{
 body{
    background-color :aliceblue;
 }
-button{
+button {
     font-size: 18px;
     font-weight:600;
+    border: none;
     background-color: darkturquoise;
-    border:0;
+    text-align: center;
     padding: 10px 60px;
+    display: inline-block;
     cursor: pointer;
 
 }

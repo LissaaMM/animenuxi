@@ -24,8 +24,8 @@ p{
 }
 
 button:hover {
-    color: #e2a2ff;
-    background-color: #ffecf1;
+    color: #f098e8;
+    background-color: #d67f96;
 
 }
 img{
@@ -45,14 +45,4 @@ button {
     display: inline-block;
     cursor: pointer;
     border-radius: 20px;
-}
-.romance{
-    padding: 20px;
-    background-color:#ffadc6;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    display: flex;
-    background: radial-gradient(circle, rgb(#fff7de));
-    justify-content: space-between;
-    align-items: center;
-    color: #df658b;
 }

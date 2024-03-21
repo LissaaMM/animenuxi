@@ -24,7 +24,9 @@ button.a:hover {
     background-color: #ffecf1;
 
 }
-
+img{
+    border-radius: 20px;
+}
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color :#ffe5fc;

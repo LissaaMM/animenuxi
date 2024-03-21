@@ -23,7 +23,7 @@ p{
    color:#df658b; 
 }
 
-button.a:hover {
+button:hover {
     color: #e2a2ff;
     background-color: #ffecf1;
 

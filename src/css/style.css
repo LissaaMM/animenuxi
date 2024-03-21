@@ -29,12 +29,12 @@ body{
 }
 button {
     font-size: 18px;
-    font-weight:600;
+    font-weight:300;
     border: none;
     background-color: darkturquoise;
     text-align: center;
     padding: 10px 60px;
     display: inline-block;
     cursor: pointer;
-
+    border-radius: 15px;
 }

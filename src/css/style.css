@@ -5,7 +5,7 @@
 
 header{
     padding: 20px;
-    background-color: #9564f5;
+    background-color:#ffadc6;
     font-family: Georgia, 'Times New Roman', Times, serif;
     display: flex;
     background: radial-gradient(circle, rgb(#fff7de));
@@ -13,24 +13,27 @@ header{
     align-items: center;
 }
 h1{
-  color: #5a35e8;
+  color: #ffacc6;
+}
+h2{
+    color:#ffacc6;
 }
 
 .a:hover {
     color: #e2a2ff;
-    background-color: aliceblue;
+    background-color: #ffecf1;
 
 }
 
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color :#e2a2ff;
+    background-color :#ffe5fc;
 }
 button {
     font-size: 18px;
     font-weight:200;
     border: none;
-    background-color: #6d47e3;
+    background-color: #ffcbe2;
     text-align: center;
     padding: 10px 60px;
     display: inline-block;

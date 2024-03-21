@@ -11,6 +11,7 @@ header{
     background: radial-gradient(circle, rgb(#fff7de));
     justify-content: space-between;
     align-items: center;
+    color: #df658b;
 }
 h1{
   color: #df658b;

@@ -5,7 +5,7 @@
 
 header{
     padding: 20px;
-    background-color: #5a36ee;
+    background-color: #9564f5;
     font-family: Georgia, 'Times New Roman', Times, serif;
     display: flex;
     background: radial-gradient(circle, rgb(#fff7de));
@@ -24,7 +24,7 @@ h1{
 
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-   background-color :aliceblue;
+    background-color :#b17aff;
 }
 button {
     font-size: 18px;

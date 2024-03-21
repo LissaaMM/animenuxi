@@ -18,6 +18,9 @@ h1{
 h2{
     color:#ffacc6;
 }
+p{
+   color:#df658b; 
+}
 
 button.a:hover {
     color: #e2a2ff;

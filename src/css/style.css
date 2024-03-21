@@ -5,7 +5,7 @@
 
 header{
     padding: 20px;
-    background-color: rgb(95, 167, 231);
+    background-color: #5a36ee;
     font-family: Georgia, 'Times New Roman', Times, serif;
     display: flex;
     background: radial-gradient(circle, rgb(#fff7de));
@@ -13,13 +13,11 @@ header{
     align-items: center;
 }
 h1{
-  color: #3c1edf;
+  color: #5a35e8;
 }
-nav a.genero{
-    background-color: cornflowerblue;
-}
+
 .a:hover {
-    color: #1408a9;
+    color: #e2a2ff;
     background-color: aliceblue;
 
 }
@@ -32,7 +30,7 @@ button {
     font-size: 18px;
     font-weight:300;
     border: none;
-    background-color: #68b3e6;
+    background-color: #c892f6;
     text-align: center;
     padding: 10px 60px;
     display: inline-block;

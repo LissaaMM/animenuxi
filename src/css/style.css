@@ -19,7 +19,7 @@ h2{
     color:#ffacc6;
 }
 
-.a:hover {
+button.a:hover {
     color: #e2a2ff;
     background-color: #ffecf1;
 

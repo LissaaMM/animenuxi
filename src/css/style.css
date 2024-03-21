@@ -47,12 +47,5 @@ button {
     border-radius: 20px;
 }
 footer{
-    padding: 20px;
-    background-color:#ffadc6;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    display: flex;
-    background: radial-gradient(circle, rgb(#fff7de));
-    justify-content: space-between;
-    align-items: center;
     color: #df658b;
 }

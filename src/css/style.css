@@ -24,16 +24,16 @@ h1{
 
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color :#b17aff;
+    background-color :#e2a2ff;
 }
 button {
     font-size: 18px;
-    font-weight:300;
+    font-weight:200;
     border: none;
-    background-color: #c892f6;
+    background-color: #6d47e3;
     text-align: center;
     padding: 10px 60px;
     display: inline-block;
     cursor: pointer;
-    border-radius: 15px;
+    border-radius: 20px;
 }

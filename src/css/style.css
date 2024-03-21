@@ -13,25 +13,26 @@ header{
     align-items: center;
 }
 h1{
-  color: black;
+  color: #3c1edf;
 }
 nav a.genero{
     background-color: cornflowerblue;
 }
 .a:hover {
-    color: black;
+    color: #1408a9;
     background-color: aliceblue;
 
 }
 
 body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
    background-color :aliceblue;
 }
 button {
     font-size: 18px;
     font-weight:300;
     border: none;
-    background-color: darkturquoise;
+    background-color: #0a0484;
     text-align: center;
     padding: 10px 60px;
     display: inline-block;

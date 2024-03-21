@@ -17,14 +17,14 @@ h1{
   color: #df658b;
 }
 h2{
-    color:#ffacc6;
+    color:hsl(341, 100%, 84%);
 }
 p{
    color:#df658b; 
 }
 
 button:hover {
-    color: #ec9eec;
+    color: hsl(341, 100%, 84%);
     background-color: #d67f96;
 
 }
